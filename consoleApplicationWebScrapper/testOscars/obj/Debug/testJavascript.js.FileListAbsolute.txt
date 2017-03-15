@@ -1,0 +1,16 @@
+C:\Users\isambard.wa\Documents\Visual Studio 2012\Projects\testOscars\testOscars\bin\Debug\testOscars.exe.config
+C:\Users\isambard.wa\Documents\Visual Studio 2012\Projects\testOscars\testOscars\bin\Debug\testOscars.exe
+C:\Users\isambard.wa\Documents\Visual Studio 2012\Projects\testOscars\testOscars\bin\Debug\testOscars.pdb
+C:\Users\isambard.wa\Documents\Visual Studio 2012\Projects\testOscars\testOscars\bin\Debug\EntityFramework.dll
+C:\Users\isambard.wa\Documents\Visual Studio 2012\Projects\testOscars\testOscars\bin\Debug\Newtonsoft.Json.dll
+C:\Users\isambard.wa\Documents\Visual Studio 2012\Projects\testOscars\testOscars\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\isambard.wa\Documents\Visual Studio 2012\Projects\testOscars\testOscars\bin\Debug\System.Web.Http.dll
+C:\Users\isambard.wa\Documents\Visual Studio 2012\Projects\testOscars\testOscars\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\isambard.wa\Documents\Visual Studio 2012\Projects\testOscars\testOscars\bin\Debug\EntityFramework.xml
+C:\Users\isambard.wa\Documents\Visual Studio 2012\Projects\testOscars\testOscars\bin\Debug\Newtonsoft.Json.xml
+C:\Users\isambard.wa\Documents\Visual Studio 2012\Projects\testOscars\testOscars\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\isambard.wa\Documents\Visual Studio 2012\Projects\testOscars\testOscars\bin\Debug\System.Web.Http.xml
+C:\Users\isambard.wa\Documents\Visual Studio 2012\Projects\testOscars\testOscars\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\isambard.wa\Documents\Visual Studio 2012\Projects\testOscars\testOscars\obj\Debug\testJavascript.jsResolveAssemblyReference.cache
+C:\Users\isambard.wa\Documents\Visual Studio 2012\Projects\testOscars\testOscars\obj\Debug\testOscars.exe
+C:\Users\isambard.wa\Documents\Visual Studio 2012\Projects\testOscars\testOscars\obj\Debug\testOscars.pdb
